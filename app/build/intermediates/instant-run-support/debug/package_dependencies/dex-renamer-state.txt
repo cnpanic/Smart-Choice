@@ -1,0 +1,22 @@
+#Wed Apr 12 12:21:35 KST 2017
+renamed.6=classes2.dex
+renamed.5=classes5.dex
+renamed.4=classes7.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes6.dex
+base.6=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51947018f447e2ec37b299386d5dc7e30fda6ef1
+base.5=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c26e3b02c7fabf2e415f2232ad7ec579cf54c909
+base.4=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7aab80463f13b9e221b0deb4e411004878fdb9d9
+base.3=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49188b731d271a70e13642893eba6efe42ac8cfb
+base.2=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d60490c7d04b957f762742940fc7cba6e5e947f
+base.1=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3c83da132537dc28c390cfd0219c2f3d5ab561f
+base.0=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f17a892d220cad615d677932e1e6fa27ce0041eb
+file.6=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51947018f447e2ec37b299386d5dc7e30fda6ef1/classes.dex
+file.5=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c26e3b02c7fabf2e415f2232ad7ec579cf54c909/classes.dex
+file.4=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7aab80463f13b9e221b0deb4e411004878fdb9d9/classes.dex
+file.3=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49188b731d271a70e13642893eba6efe42ac8cfb/classes.dex
+file.2=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d60490c7d04b957f762742940fc7cba6e5e947f/classes.dex
+file.1=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3c83da132537dc28c390cfd0219c2f3d5ab561f/classes.dex
+file.0=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f17a892d220cad615d677932e1e6fa27ce0041eb/classes.dex

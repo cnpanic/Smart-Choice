@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2b15ddcbbc176f35f372d84395cc6406d1729cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45b187393ff51af4e69bdde0edbcf83189a0baca">
+        <dex dex="/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_77ca7a9eaabc01669289b6e156929978290f0a69/classes.dex" />
+    </item>
+
+</items>

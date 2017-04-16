@@ -1,0 +1,7 @@
+#Wed Apr 12 12:21:36 KST 2017
+base.0=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2b15ddcbbc176f35f372d84395cc6406d1729cd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_77ca7a9eaabc01669289b6e156929978290f0a69/classes.dex
+base.1=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_77ca7a9eaabc01669289b6e156929978290f0a69
+file.0=/Users/proMACBOOK/Desktop/AndroidStudioProjects/BLEChat1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2b15ddcbbc176f35f372d84395cc6406d1729cd/classes.dex
